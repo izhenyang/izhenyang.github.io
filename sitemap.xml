@@ -1,61 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/post/music/2021-05-31-tbd/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/zack-almquist/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/post/readings/2021-05-24-tbd/</loc>
     <lastmod>2021-05-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/post/music/2021-05-17-tbd/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/post/readings/2021-05-10-tbd/</loc>
     <lastmod>2021-05-10T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/post/readings/2021-05-03-tbd/</loc>
     <lastmod>2021-05-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/post/readings/2021-04-26-tbd/</loc>
     <lastmod>2021-04-26T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/post/readings/2021-04-19-tbd/</loc>
     <lastmod>2021-04-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/post/music/2021-04-12-tbd/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/post/music/2021-04-05-tbd/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/post/music/welcome-to-the-first-meeting-of-the-quarter/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/zhen-yang/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/research/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/sponsors/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/test/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/music/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/readings/</loc>
   </url>
+  
 </urlset>
